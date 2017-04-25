@@ -1,4 +1,7 @@
-# api documentation for  [hyper-snazzy (v1.1.0)](https://github.com/sindresorhus/hyper-snazzy#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyper-snazzy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyper-snazzy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyper-snazzy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyper-snazzy)
+# npmdoc-hyper-snazzy
+
+#### basic api documentation for  [hyper-snazzy (v1.1.0)](https://github.com/sindresorhus/hyper-snazzy#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyper-snazzy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyper-snazzy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyper-snazzy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyper-snazzy)
+
 #### Elegant Hyper theme with bright colors
 
 [![NPM](https://nodei.co/npm/hyper-snazzy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyper-snazzy)
@@ -60,7 +63,8 @@
         "url": "git+https://github.com/sindresorhus/hyper-snazzy.git"
     },
     "scripts": {},
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
